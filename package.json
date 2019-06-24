@@ -27,7 +27,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MagnaChain/Mgc-Corelib.git"
+    "url": "https://github.com/arhaha/Mgc-Corelib.git"
   },
   "browser": {
     "request": "browser-request"
